@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 28px;
+}
+
+#myNavbar {
+  background-color: green;
+}
+
+#section1,
+#section2,
+#section3,
+#section4,
+#section5,
+#section6,
+#section7 {
+  background-color: gold;
+  font-size: 38px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
